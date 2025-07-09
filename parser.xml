@@ -5,6 +5,66 @@
 
    section_end()!
 
+   section_start("\u007b\u0022n\u0022:\u0022change_fp\u0022,\u0022fd\u0022:\u0022\u007b\u005c\u0022fd\u005c\u0022:\u005c\u0022\u005c\u0022,\u005c\u0022hr\u005c\u0022:false,\u005c\u0022rd\u005c\u0022:\u005c\u0022\u005c\u0022,\u005c\u0022rv\u005c\u0022:\u005c\u0022FUNCTION_RESULT\u005c\u0022,\u005c\u0022p\u005c\u0022:[]\u007d\u0022\u007d", 329500618)!
+   function change_fp()
+   {
+   section_insert()
+      section_start("", 615871150)!
+      /*Dat:eyJzIjoiaWYiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IkV4cHJlc3Npb25WYWx1ZSIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJFeHByZXNzaW9uVmFsdWVDb25maXJtIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6ImV4cHJlc3Npb24iLCJpc19kZWYiOnRydWV9LHsiaWQiOiJJZkV4cHJlc3Npb24iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6Int70JzQtdC90Y/RgtGMINC+0YLQv9C10YfQsNGC0L7QuiDQsdGA0LDRg9C30LXRgNCwfX0iLCJjbGFzcyI6ImV4cHJlc3Npb24iLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiSWZFbHNlIiwidHlwZSI6ImNoZWNrIiwiZGF0YSI6ZmFsc2UsImlzX2RlZiI6dHJ1ZX1dfQ==*/
+      RS("Менять отпечаток браузера", false, false)!
+      RESOURCE_173837 = _result().get()
+      _set_if_expression("e3vQnNC10L3Rj9GC0Ywg0L7RgtC/0LXRh9Cw0YLQvtC6INCx0YDQsNGD0LfQtdGA0LB9fQ==");
+      _if(RESOURCE_173837,function(){
+      section_insert()
+         section_start("", 991923381)!
+         /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiLQodC80LXQvdCwINC+0YLQv9C10YfQsNGC0LrQsCDQsdGA0LDRg9C30LXRgNCwLi4uIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiZW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoibGV2ZWwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImluZm8iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImNvbG9yIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX1dfQ==*/
+         logger_log({"color": (""), "en": (""), "level": ("info"), "ru": ("Смена отпечатка браузера...")})
+         section_end()!
+
+         section_start("", 382109997)!
+         /*Dat:eyJzIjoiRmluZ2VycHJpbnRTd2l0Y2hlcl9HZXQiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IkV4cHJlc3Npb25WYWx1ZSIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJFeHByZXNzaW9uVmFsdWVDb25maXJtIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6ImV4cHJlc3Npb24iLCJpc19kZWYiOnRydWV9LHsiaWQiOiJUYWdzIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJEZXNrdG9wIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiS2V5IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJ7e0FQSSDQutC70Y7RhyBGaW5nZXJQcmludCBTd2l0Y2hlcn19IiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiUGVyZmVjdENhbnZhc1JlcXVlc3QiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiUGVyZmVjdENhbnZhc0RlYnVnIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJmYWxzZSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiRW5hYmxlUHJlY29tcHV0ZWRGaW5nZXJwcmludHMiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InRydWUiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkFkZGVkRGF0ZSIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiMzAgZGF5cyIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6IkJyb3dzZXJWZXJzaW9uIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIqIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJNYXhCcm93c2VyVmVyc2lvbiIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiKiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiTWluaW11bVdpZHRoIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIxNjAwIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiTWluaW11bUhlaWdodCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiOTAwIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiTWF4aW11bVdpZHRoIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIyMDAwIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiTWF4aW11bUhlaWdodCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiMTIwMCIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6IlN1cHByZXNzV2FybmluZ3MiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InRydWUiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJFbmFibGVDdXN0b21TZXJ2ZXJzIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJmYWxzZSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiRHluYW1pY1BlcmZlY3RDYW52YXMiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InRydWUiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IlNhdmUiLCJ0eXBlIjoidmFyIiwiZGF0YSI6IkZJTkdFUlBSSU5UIiwiaXNfZGVmIjp0cnVlfV19*/
+         RS("API ключ FingerPrint Switcher", false, false)!
+         RESOURCE_855030 = _result().get()
+         _call(BrowserAutomationStudio_GetFingerprint,[{
+         tags: ("Desktop"),
+         key: (RESOURCE_855030),
+         min_browser_version: ("*"),
+         max_browser_version: ("*"),
+         min_width: ("1600"),
+         min_height: ("900"),
+         max_width: ("2000"),
+         max_height: ("1200"),
+         time_limit: ("30 days"),
+         perfectcanvas_request: (""),
+         perfectcanvas_logs: ("false"),
+         enable_custom_server: ("false"),
+         dynamic_perfect_canvas: ("true"),
+         enable_precomputed_fingerprints: ("true"),
+         suppress_warnings: ("true"),
+         }])!
+         VAR_FINGERPRINT = _result()
+         section_end()!
+
+         section_start("", 841400002)!
+         /*Dat:eyJzIjoiRmluZ2VycHJpbnRTd2l0Y2hlcl9BcHBseSIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkZpbmdlcnByaW50IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJbW0ZJTkdFUlBSSU5UXV0iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJLZXkiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6Int7QVBJINC60LvRjtGHIEZpbmdlclByaW50IFN3aXRjaGVyfX0iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJQZXJmZWN0Q2FudmFzIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJ0cnVlIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJDYW52YXNOb2lzZSIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiZmFsc2UiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IldlYmdsTm9pc2UiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImZhbHNlIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJBdWRpb05vaXNlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJmYWxzZSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiU2FmZUJhdHRlcnkiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InRydWUiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkZvbnREYXRhIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJ0cnVlIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJTYWZlUmVjdGFuZ2xlcyIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiZmFsc2UiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkVtdWxhdGVTZW5zb3IiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6InRydWUiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkVtdWxhdGVEZXZpY2VTY2FsZUZhY3RvciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoidHJ1ZSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfV19*/
+         RS("API ключ FingerPrint Switcher", false, false)!
+         RESOURCE_518091 = _result().get()
+         /*Browser*/
+         _call(BrowserAutomationStudio_ApplyFingerprint,[VAR_FINGERPRINT,"false" == "true","false" == "true","false" == "true","true" == "true","false" == "true","true" == "true","true" == "true","true" == "true","true" == "true", RESOURCE_518091])!
+         sleep(1000)!
+         section_end()!
+
+         section_start("", 305602466)!
+         /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiLQntGC0L/QtdGH0LDRgtC60LAg0LHRgNCw0YPQt9C10YDQsCDQt9Cw0LPRgNGD0LbQtdC9IiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiZW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoibGV2ZWwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImluZm8iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImNvbG9yIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJjeWFuIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfV19*/
+         logger_log({"color": ("cyan"), "en": (""), "level": ("info"), "ru": ("Отпечатка браузера загружен")})
+         section_end()!
+
+      })!
+      section_end()!
+
+   }
+   section_end()!
+
    section_start("\u007b\u0022n\u0022:\u0022lot_create_desc\u0022,\u0022fd\u0022:\u0022\u007b\u005c\u0022fd\u005c\u0022:\u005c\u0022\u005c\u0022,\u005c\u0022hr\u005c\u0022:false,\u005c\u0022rd\u005c\u0022:\u005c\u0022\u005c\u0022,\u005c\u0022rv\u005c\u0022:\u005c\u0022FUNCTION_RESULT\u005c\u0022,\u005c\u0022p\u005c\u0022:[]\u007d\u0022\u007d", 774168439)!
    function lot_create_desc()
    {
@@ -159,6 +219,11 @@
          restore_cookies(COOKIES,false)!
          section_end()!
 
+         section_start("", 707086299)!
+         /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiLQmtGD0LrQuCDQt9Cw0LPRgNGD0LbQtdC90YsiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJlbiIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJsZXZlbCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiaW5mbyIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiY29sb3IiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImN5YW4iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6ZmFsc2V9XX0=*/
+         logger_log({"color": ("cyan"), "en": (""), "level": ("info"), "ru": ("Куки загружены")})
+         section_end()!
+
       })!
       section_end()!
 
@@ -176,6 +241,45 @@
    function telegram_send()
    {
    section_insert()
+      section_start("", 200911136)!
+      /*Dat:eyJzIjoiaWdub3JlZXJyb3JzIiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJkIjpbXX0=*/
+      _call(function()
+      {
+      _set_action_info({ name: "Ignore Errors" });
+      _on_fail(function(){
+      VAR_LAST_ERROR = _result()
+      VAR_ERROR_ID = ScriptWorker.GetCurrentAction()
+      VAR_WAS_ERROR = false
+      _break(1,true)
+      })
+      CYCLES.Current().RemoveLabel("function")
+      section_insert()
+         section_start("", 27106275)!
+         /*Dat:eyJzIjoiaHR0cGNsaWVudHBvc3QiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IlZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJodHRwczovL2FwaS50ZWxlZ3JhbS5vcmcvYm90e3tCb3QgQVBJIGtleX19L3NlbmRNZXNzYWdlIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiSGVhZGVycyIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJDaGVjazIiLCJ0eXBlIjoiY2hlY2siLCJkYXRhIjpmYWxzZSwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiUG9zdE5hbWUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiUG9zdFZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IlBvc3REYXRhQXJyYXkiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkNvbnRlbnRUeXBlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJ1cmxlbmNvZGUiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IlBvc3REYXRhUmF3IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJ7XCJjaGF0X2lkXCI6IFwie3tDaGF0IElEfX1cIiwgXCJ0ZXh0XCI6IFwiW1tMT1RfRlVMTF9ERVNDXV1cIn0iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJDb250ZW50VHlwZVJhdyIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiYXBwbGljYXRpb24vanNvbiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6IkVuY29kaW5nIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJVVEYtOCIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiTWV0aG9kIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJQT1NUIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJDaGVjayIsInR5cGUiOiJjaGVjayIsImRhdGEiOnRydWUsImlzX2RlZiI6dHJ1ZX1dfQ==*/
+         RS("Bot API key", false, false)!
+         RESOURCE_237489 = _result().get()
+         RS("Chat ID", false, false)!
+         RESOURCE_313087 = _result().get()
+         _switch_http_client_main()
+         http_client_post("https://api.telegram.org/bot" + RESOURCE_237489 + "/sendMessage", ["data", "\u007b\u0022chat_id\u0022: \u0022" + RESOURCE_313087 + "\u0022, \u0022text\u0022: \u0022" + VAR_LOT_FULL_DESC + "\u0022\u007d"], {"content-type":"custom/" + ("application/json"), "encoding":("UTF-8"), "method":("POST"),headers:("")})!
+         section_end()!
+
+      },null)!
+      section_end()!
+
+      section_start("\u007b\u0022c\u0022:\u00225\u0022\u007d", 286043838)!
+      /*Dat:eyJzIjoiaWYiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsImQiOlt7ImlkIjoiSWZFeHByZXNzaW9uIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJbW1dBU19FUlJPUl1dIiwiY2xhc3MiOiJleHByZXNzaW9uIn0seyJpZCI6IklmRWxzZSIsInR5cGUiOiJjaGVjayIsImRhdGEiOmZhbHNlfV19*/
+      _set_if_expression("W1tXQVNfRVJST1JdXQ==");
+      _if(VAR_WAS_ERROR,function(){
+      section_insert()
+         section_start("", 969863287)!
+         /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoicnUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ItCe0YjQuNCx0LrQsCDQvtGC0L/RgNCw0LLQutC4INGD0LLQtdC00L7QvNC70LXQvdC40Y8g0LIgVGVsZWdyYW06IFtbRVJST1JfSURdXSA6IFtbTEFTVF9FUlJPUl1dIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiZW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoibGV2ZWwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImluZm8iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImNvbG9yIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJvcmFuZ2UiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6ZmFsc2V9XX0=*/
+         logger_log({"color": ("orange"), "en": (""), "level": ("info"), "ru": ("Ошибка отправки уведомления в Telegram: " + VAR_ERROR_ID + " : " + VAR_LAST_ERROR)})
+         section_end()!
+
+      })!
+      section_end()!
+
    }
    section_end()!
 
@@ -184,23 +288,23 @@
    {
    section_insert()
       section_start("", 378621232)!
-      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoicnUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ItCX0LDQv9GD0YHQuiDQvNC+0L3QuNGC0L7RgNCwLi4uIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiZW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoibGV2ZWwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImluZm8iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImNvbG9yIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX1dfQ==*/
-      logger_log({"color": (""), "en": (""), "level": ("info"), "ru": ("Запуск монитора...")})
+      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiLQl9Cw0L/Rg9GB0Log0LzQvtC90LjRgtC+0YDQuNC90LPQsC4uLiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6ImVuIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImxldmVsIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJpbmZvIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJjb2xvciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9XX0=*/
+      logger_log({"color": (""), "en": (""), "level": ("info"), "ru": ("Запуск мониторинга...")})
       section_end()!
 
-      section_start("", 383607400)!
+      section_start("\u007b\u0022c\u0022:\u00223\u0022\u007d", 383607400)!
       /*Dat:eyJzIjoic3BsaXRfdG9fbGluZXMiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6InN0cmluZyIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoie3vQodC/0LjRgdC+0Log0YHQu9C+0LJ9fSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6InNlcGFyYXRvciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiL1xccj9cXG4vIiwiY2xhc3MiOiJleHByZXNzaW9uIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiQ2hlY2siLCJ0eXBlIjoiY2hlY2siLCJkYXRhIjp0cnVlLCJpc19kZWYiOnRydWV9LHsiaWQiOiJsaW1pdCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJpbnQiLCJpc19kZWYiOnRydWV9LHsiaWQiOiJTYXZlIiwidHlwZSI6InZhciIsImRhdGEiOiJWQUxJREFUSU9OX1dPUkRTX1JBVyIsImlzX2RlZiI6ZmFsc2V9XX0=*/
       RS("Список слов", false, false)!
       RESOURCE_649821 = _result().get()
       VAR_VALIDATION_WORDS_RAW = _split_string(RESOURCE_649821,/\r?\n/,true);
       section_end()!
 
-      section_start("", 91871315)!
+      section_start("\u007b\u0022c\u0022:\u00223\u0022\u007d", 91871315)!
       /*Dat:eyJzIjoiQ3JlYXRlTGlzdCIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiVmFyaWFibGUiLCJ0eXBlIjoidmFyIiwiZGF0YSI6IlZBTElEQVRJT05fV09SRFMiLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiVmFsdWUxIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IlZhbHVlMiIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJWYWx1ZTMiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfV19*/
       VAR_VALIDATION_WORDS = []
       section_end()!
 
-      section_start("", 910711125)!
+      section_start("\u007b\u0022c\u0022:\u00223\u0022\u007d", 910711125)!
       /*Dat:eyJzIjoiQ3ljbGVfRm9yZWFjaCIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRm9yQXJyYXkiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IltbVkFMSURBVElPTl9XT1JEU19SQVddXSIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJTYXZlSW5kZXgiLCJ0eXBlIjoidmFyIiwiZGF0YSI6IkNZQ0xFX0lOREVYIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiU2F2ZURhdGEiLCJ0eXBlIjoidmFyIiwiZGF0YSI6IkZPUkVBQ0hfV09SRCIsImlzX2RlZiI6ZmFsc2V9XX0=*/
       _do_with_params({"foreach_data":(VAR_VALIDATION_WORDS_RAW)},function(){
       var cycle_index = _iterator() - 1;
@@ -208,17 +312,29 @@
       VAR_FOREACH_WORD = _cycle_param("foreach_data")[cycle_index];
       VAR_CYCLE_INDEX = cycle_index;
       section_insert()
-         section_start("", 198806521)!
+         section_start("\u007b\u0022c\u0022:\u00223\u0022\u007d", 198806521)!
          /*Dat:eyJzIjoidG9fbG93ZXJfY2FzZSIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoic3RyaW5nIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJbW0ZPUkVBQ0hfV09SRF1dIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiU2F2ZSIsInR5cGUiOiJ2YXIiLCJkYXRhIjoiTE9XRVJDQVNFX1dPUkQiLCJpc19kZWYiOmZhbHNlfV19*/
          VAR_LOWERCASE_WORD = _to_lower_case(VAR_FOREACH_WORD);
          section_end()!
 
-         section_start("", 361175188)!
+         section_start("\u007b\u0022c\u0022:\u00223\u0022\u007d", 361175188)!
          /*Dat:eyJzIjoiQWRkRWxlbWVudCIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiVmFyaWFibGUiLCJ0eXBlIjoidmFyIiwiZGF0YSI6IlZBTElEQVRJT05fV09SRFMiLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiVmFsdWUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IltbTE9XRVJDQVNFX1dPUkRdXSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX1dfQ==*/
          VAR_VALIDATION_WORDS.push(VAR_LOWERCASE_WORD)
          section_end()!
 
       })!
+      section_end()!
+
+      section_start("", 201726709)!
+      /*Dat:eyJzIjoic2V0dmFyaWFibGUiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IlNldFZhcmlhYmxlTmFtZSIsInR5cGUiOiJ2YXIiLCJkYXRhIjoiRVhDRUxfSU5ERVgiLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiU2V0VmFyaWFibGVWYWx1ZSIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiMCIsImNsYXNzIjoiaW50IiwiaXNfZGVmIjpmYWxzZX1dfQ==*/
+      VAR_EXCEL_INDEX = 0
+      section_end()!
+
+      section_start("", 974988780)!
+      /*Dat:eyJzIjoic2V0dmFyaWFibGUiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IlNldFZhcmlhYmxlTmFtZSIsInR5cGUiOiJ2YXIiLCJkYXRhIjoiRklSU1RfTE9PUF9TS0lQIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6IlNldFZhcmlhYmxlVmFsdWUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6Int70J/RgNC+0L/Rg9GB0YLQuNGC0Ywg0L7QsdGK0Y/QstC70LXQvdC40Y8g0L3QtSDQv9C10YDQstC+0Lwg0LrRgNGD0LPQtX19IiwiY2xhc3MiOiJleHByZXNzaW9uIiwiaXNfZGVmIjpmYWxzZX1dfQ==*/
+      RS("Пропустить объявления не первом круге", false, false)!
+      RESOURCE_452773 = _result().get()
+      VAR_FIRST_LOOP_SKIP = RESOURCE_452773
       section_end()!
 
    }
@@ -349,7 +465,7 @@
    }
    section_end()!
 
-   section_start("\u007b\u0022n\u0022:\u0022db_save_lot\u0022,\u0022fd\u0022:\u0022\u007b\u005c\u0022fd\u005c\u0022:\u005c\u0022\u005c\u0022,\u005c\u0022hr\u005c\u0022:false,\u005c\u0022rd\u005c\u0022:\u005c\u0022\u005c\u0022,\u005c\u0022rv\u005c\u0022:\u005c\u0022FUNCTION_RESULT\u005c\u0022,\u005c\u0022p\u005c\u0022:[]\u007d\u0022\u007d", 453827553)!
+   section_start("\u007b\u0022n\u0022:\u0022db_save_lot\u0022,\u0022fd\u0022:\u0022\u007b\u005c\u0022fd\u005c\u0022:\u005c\u0022\u005c\u0022,\u005c\u0022hr\u005c\u0022:true,\u005c\u0022rd\u005c\u0022:\u005c\u0022\u005c\u0022,\u005c\u0022rv\u005c\u0022:\u005c\u0022FUNCTION_RESULT\u005c\u0022,\u005c\u0022p\u005c\u0022:[]\u007d\u0022\u007d", 453827553)!
    function db_save_lot()
    {
    section_insert()
@@ -388,6 +504,11 @@
    function excel_init()
    {
    section_insert()
+      section_start("", 668573820)!
+      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiLQodC+0LfQtNCw0L3QuNC1IEV4Y2VsINGC0LDQsdC70LjRhtGLIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiZW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoibGV2ZWwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImluZm8iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImNvbG9yIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX1dfQ==*/
+      logger_log({"color": (""), "en": (""), "level": ("info"), "ru": ("Создание Excel таблицы")})
+      section_end()!
+
       section_start("", 102428895)!
       /*Dat:eyJzIjoiaWYiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IklmRXhwcmVzc2lvbiIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoie3vQodC+0YXRgNCw0L3Rj9GC0Ywg0L7QsdGK0Y/QstC70LXQvdC40Y8g0LIgRXhjZWx9fSIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJJZkVsc2UiLCJ0eXBlIjoiY2hlY2siLCJkYXRhIjpmYWxzZSwiaXNfZGVmIjp0cnVlfV19*/
       RS("Сохранять объявления в Excel", false, false)!
@@ -403,6 +524,11 @@
          section_end()!
 
       })!
+      section_end()!
+
+      section_start("", 390216804)!
+      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJFeGNlbCDRgtCw0LHQu9C40YbQsCDRgdC+0LfQtNCw0L3QsCIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6ImVuIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImxldmVsIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJpbmZvIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJjb2xvciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiY3lhbiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX1dfQ==*/
+      logger_log({"color": ("cyan"), "en": (""), "level": ("info"), "ru": ("Excel таблица создана")})
       section_end()!
 
    }
@@ -428,6 +554,11 @@
       /*Dat:eyJzIjoicmVxdWVzdG1hc2tkZW55IiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJ1ZSI6IjAiLCJ1c3AiOiIwIiwiZCI6W3siaWQiOiJ1cmxGaWx0ZXJzIiwidHlwZSI6ImZpbHRlciIsImRhdGEiOlt7InR5cGUiOiJNYXNrIiwibWF0Y2giOnRydWUsInZhbHVlIjp7ImRhdGEiOiJ3d3cuYXZpdG8ucnUvZHN0YXRpYy9idWlsZC9hc3NldHMvKi5zdmciLCJjbGFzcyI6InN0cmluZyJ9fSx7InR5cGUiOiJNYXNrIiwibWF0Y2giOnRydWUsInZhbHVlIjp7ImRhdGEiOiJhdml0by5zdC9zL2FwcC9pL3NuaXBwZXRzLyouc3ZnKiIsImNsYXNzIjoic3RyaW5nIn19LHsidHlwZSI6Ik1hc2siLCJtYXRjaCI6dHJ1ZSwidmFsdWUiOnsiZGF0YSI6ImF2aXRvLnJ1L3N0YXRpYy8qL2Fzc2V0cy8qLnN2ZyIsImNsYXNzIjoic3RyaW5nIn19LHsidHlwZSI6Ik1hc2siLCJtYXRjaCI6dHJ1ZSwidmFsdWUiOnsiZGF0YSI6IippbWcuYXZpdG8uc3QvaW1hZ2UvKiIsImNsYXNzIjoic3RyaW5nIn19LHsidHlwZSI6Ik1hc2siLCJtYXRjaCI6dHJ1ZSwidmFsdWUiOnsiZGF0YSI6ImFkcy1zdG9yYWdlLmF2aXRvLnJ1LyoiLCJjbGFzcyI6InN0cmluZyJ9fSx7InR5cGUiOiJNYXNrIiwibWF0Y2giOnRydWUsInZhbHVlIjp7ImRhdGEiOiIqaHlicmlkLmFpKiIsImNsYXNzIjoic3RyaW5nIn19LHsidHlwZSI6Ik1hc2siLCJtYXRjaCI6dHJ1ZSwidmFsdWUiOnsiZGF0YSI6Iip5YW5kZXgucnUqIiwiY2xhc3MiOiJzdHJpbmcifX0seyJ0eXBlIjoiTWFzayIsIm1hdGNoIjp0cnVlLCJ2YWx1ZSI6eyJkYXRhIjoiKmdvb2dsZS5ydSoiLCJjbGFzcyI6InN0cmluZyJ9fSx7InR5cGUiOiJNYXNrIiwibWF0Y2giOnRydWUsInZhbHVlIjp7ImRhdGEiOiIqYWRyaXZlci5ydSoiLCJjbGFzcyI6InN0cmluZyJ9fV0sImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJmaWx0ZXItbG9naWMtc2VsZWN0LXVybEZpbHRlcnMiLCJ0eXBlIjoic2VsZWN0IiwiZGF0YSI6Im9yIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6Im1ldGhvZHMiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IkFMTCIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoiU2F2ZSIsInR5cGUiOiJ2YXIiLCJkYXRhIjoiXyIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJWYWx1ZSIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9XX0=*/
       request_deny({or:true,data:[{match:true,type:"Mask",value:("www.avito.ru/dstatic/build/assets/*.svg")},{match:true,type:"Mask",value:("avito.st/s/app/i/snippets/*.svg*")},{match:true,type:"Mask",value:("avito.ru/static/*/assets/*.svg")},{match:true,type:"Mask",value:("*img.avito.st/image/*")},{match:true,type:"Mask",value:("ads-storage.avito.ru/*")},{match:true,type:"Mask",value:("*hybrid.ai*")},{match:true,type:"Mask",value:("*yandex.ru*")},{match:true,type:"Mask",value:("*google.ru*")},{match:true,type:"Mask",value:("*adriver.ru*")}],methods:("ALL")})!
       VAR__ = _result();
+      section_end()!
+
+      section_start("", 920145969)!
+      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiLQkdGA0LDRg9C30LXRgCDQvdCw0YHRgtGA0L7QtdC9IiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiZW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoibGV2ZWwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImluZm8iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImNvbG9yIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJjeWFuIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfV19*/
+      logger_log({"color": ("cyan"), "en": (""), "level": ("info"), "ru": ("Браузер настроен")})
       section_end()!
 
    }
@@ -688,9 +819,27 @@
          section_end()!
 
          section_start("\u007b\u0022n\u0022:\u0022Сохраняем в БД\u0022,\u0022c\u0022:\u00224\u0022\u007d", 153524845)!
-         /*Dat:eyJzIjoiZXhlY3V0ZWZ1bmN0aW9uIiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJ1ZSI6IjAiLCJ1c3AiOiIwIiwiZCI6W3siaWQiOiJGdW5jdGlvbk5hbWUiLCJ0eXBlIjoidGV4dCIsImRhdGEiOiJkYl9zYXZlX2xvdCJ9XX0=*/
+         /*Dat:eyJzIjoiZXhlY3V0ZWZ1bmN0aW9uIiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJ1ZSI6IjAiLCJ1c3AiOiIwIiwiZCI6W3siaWQiOiJGdW5jdGlvbk5hbWUiLCJ0eXBlIjoidGV4dCIsImRhdGEiOiJkYl9zYXZlX2xvdCJ9LHsiaWQiOiJTYXZlIiwidHlwZSI6InZhciIsImRhdGEiOiJWQUxJRCIsImlzX2RlZiI6ZmFsc2V9XX0=*/
          _call_function(db_save_lot,{})!
-         _result_function()
+         VAR_VALID = _result_function()
+         section_end()!
+
+         section_start("\u007b\u0022c\u0022:\u00225\u0022\u007d", 555338067)!
+         /*Dat:eyJzIjoiaWYiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IklmRXhwcmVzc2lvbiIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIVtbVkFMSURdXSIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6ZmFsc2V9LHsiaWQiOiJJZkVsc2UiLCJ0eXBlIjoiY2hlY2siLCJkYXRhIjpmYWxzZSwiaXNfZGVmIjp0cnVlfV19*/
+         _set_if_expression("IVtbVkFMSURdXQ==");
+         _if(!VAR_VALID,function(){
+         section_insert()
+            section_start("\u007b\u0022c\u0022:\u00225\u0022\u007d", 395520510)!
+            /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoicnUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IltbTE9UX05BTUVdXSA6INCj0LbQtSDQtdGB0YLRjCDQsiDQkdCUIDogW1tMT1RfTElOS11dIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOmZhbHNlfSx7ImlkIjoiZW4iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjp0cnVlfSx7ImlkIjoibGV2ZWwiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ImluZm8iLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImNvbG9yIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJyZWQiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6ZmFsc2V9XX0=*/
+            logger_log({"color": ("red"), "en": (""), "level": ("info"), "ru": (VAR_LOT_NAME + " : Уже есть в БД : " + VAR_LOT_LINK)})
+            section_end()!
+
+            section_start("\u007b\u0022c\u0022:\u00225\u0022\u007d", 904653803)!
+            /*Dat:eyJzIjoiY29udGludWUiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbXX0=*/
+            _next("function")
+            section_end()!
+
+         })!
          section_end()!
 
          section_start("\u007b\u0022n\u0022:\u0022Сохраняем в Excel\u0022,\u0022c\u0022:\u00224\u0022\u007d", 418966959)!
@@ -726,8 +875,8 @@
    {
    section_insert()
       section_start("", 314206303)!
-      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoicnUiLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6ItCX0LDQv9GD0YHQuiDQv9Cw0YDRgdC10YDQsC4uLiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6ImVuIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImxldmVsIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJpbmZvIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJjb2xvciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9XX0=*/
-      logger_log({"color": (""), "en": (""), "level": ("info"), "ru": ("Запуск парсера...")})
+      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiLQnNC+0L3QuNGC0L7RgNC40L3QsyDQt9Cw0L/Rg9GJ0LXQvSIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6ImVuIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImxldmVsIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJpbmZvIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJjb2xvciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiY3lhbiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX1dfQ==*/
+      logger_log({"color": ("cyan"), "en": (""), "level": ("info"), "ru": ("Мониторинг запущен")})
       section_end()!
 
       section_start("\u007b\u0022c\u0022:\u00222\u0022\u007d", 850068897)!
@@ -960,6 +1109,11 @@
       delete _cycle_params().if_else;
       section_end()!
 
+      section_start("", 461276648)!
+      /*Dat:eyJzIjoibG9nZ2VyX2xvZyIsInYiOjEsImYiOltdLCJ1dyI6IjAiLCJ1dCI6IjAiLCJ1dG8iOiIwIiwidW0iOiIwIiwidWUiOiIwIiwidXNwIjoiMCIsImQiOlt7ImlkIjoiRXhwcmVzc2lvblZhbHVlIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6IkV4cHJlc3Npb25WYWx1ZUNvbmZpcm0iLCJ0eXBlIjoiY29uc3RyIiwiZGF0YSI6IiIsImNsYXNzIjoiZXhwcmVzc2lvbiIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6InJ1IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiLQkdCUINC90LDRgdGC0YDQvtC10L3QsCIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX0seyJpZCI6ImVuIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIiLCJjbGFzcyI6InN0cmluZyIsImlzX2RlZiI6dHJ1ZX0seyJpZCI6ImxldmVsIiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiJpbmZvIiwiY2xhc3MiOiJzdHJpbmciLCJpc19kZWYiOnRydWV9LHsiaWQiOiJjb2xvciIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiY3lhbiIsImNsYXNzIjoic3RyaW5nIiwiaXNfZGVmIjpmYWxzZX1dfQ==*/
+      logger_log({"color": ("cyan"), "en": (""), "level": ("info"), "ru": ("БД настроена")})
+      section_end()!
+
    }
    section_end()!
 
@@ -980,6 +1134,12 @@
    section_start("\u007b\u0022n\u0022:\u0022Конект к экселю\u0022\u007d", 870612344)!
    /*Dat:eyJzIjoiZXhlY3V0ZWZ1bmN0aW9uIiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJ1ZSI6IjAiLCJ1c3AiOiIwIiwiZCI6W3siaWQiOiJGdW5jdGlvbk5hbWUiLCJ0eXBlIjoidGV4dCIsImRhdGEiOiJleGNlbF9pbml0In1dfQ==*/
    _call_function(excel_init,{})!
+   _result_function()
+   section_end()!
+
+   section_start("\u007b\u0022n\u0022:\u0022Меняем отпечаток\u0022\u007d", 266240855)!
+   /*Dat:eyJzIjoiZXhlY3V0ZWZ1bmN0aW9uIiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJ1ZSI6IjAiLCJ1c3AiOiIwIiwiZCI6W3siaWQiOiJGdW5jdGlvbk5hbWUiLCJ0eXBlIjoidGV4dCIsImRhdGEiOiJjaGFuZ2VfZnAifV19*/
+   _call_function(change_fp,{})!
    _result_function()
    section_end()!
 
@@ -1022,7 +1182,7 @@
      <ConnectionPassword></ConnectionPassword>
      <ScriptName>ScriptName</ScriptName>
      <ProtectionStrength>4</ProtectionStrength>
-     <UnusedModules>URL;PhoneVerification;JSON;ClickCaptcha;Path;InMail</UnusedModules>
+     <UnusedModules>InMail;ClickCaptcha;PhoneVerification;URL;JSON;Path</UnusedModules>
      <ScriptIcon>iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4gUYCTcMXHU3uQAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAANRElEQVR42u2dbWwU5drHfzM7O7sLbc5SWmlrJBxaIB00ES0QDr6kp4Km+qgt0aZ+sIQvT63HkKrED2z0QashIQHjMasfDAfxJWdzDpzHNxBINSCJVkvSWBg1WgIRTmtog6WlnZ3dnXk+0J2npXDY0naZ3b3/X9ptuy8z1+++ruu+e93XLXENaZqGruvJ7/8ArAKWAnkIuUUWcAb4Vtf1E5N5onQtw2uaVgKEgP8GPOJeZ4SOAn/TdX3ndQGgaRqAAvwTeASw/xMsQq7VRWC9ruv/HOvJx0q+yhP/DJjAw9fyFEKu1mzgH5qmtY1682t7AE3TaoG94t5llWzgtK7rf7zcE0iXuf0/A23ifmUtBN26ri8a+0PPZTH/Z+Hus1YSUFBUVOQ9d+7cF1fyAP87GvMFANmvUqBH13Wk0dFfAvxb3JecCQX/0nV9HYA8mhCERn8hlBuhoE7TNCkZ9+HSIs+kXL9lWRiGgWVZ7sTctsnPz5/y65imiWmarrWmLMv4/X5kWZ7sU/8C/FUZXd71TObGFhcXU19fT3V1NYWFhdi2+5xHXl4eZWVlU4agqamJDRs2uBaAgYEBDhw4QCQSobe3F0lKeRwvS3qAVZMx/sqVK9mxYweDg4NIksTQ0JB7fZ0kTYsHuHjxomuvUVEUampqqK+vp6Wlhfb29lSv+09waSVwaapvVlxczI4dOxgaGpqWmys0faAPDQ2xY8cOiouLU33akqQHSOm/epZlUV9f74z8yz2Doiioqno9sWjGQsB0hCZVVZk9e7ZrjG1ZFqZpEo/HJ9hhcHCQ+vp6Xn/99ZTtIGma9hLwP9f6w+HhYQ4dOoTf759AX09PD+FwmI6ODgYGBkQSOIPXFAwGqayspLm5mZKSkgmQG4bBmjVrmDVr1jVfT9d1SZkMeYWFheNiviRJHDx4kNbWVgeMvLzsKhNQVRVVVV3zeRKJBO3t7Rw+fJhQKMTatWvHQVBYWDipmZk8WQLHft/T0zPO+ELpk9/vp7W1lZ6engl2mdQ0cirZZzgcFsa/wRCEw2EURbnu17huAFRVpaOjQ1jhBqujo2NKIeq6AZBl2TUJXy5rYGBgSjMvWdzC3JYAQAAgJAAQEgAICQCEBABCAgAhAYCQAEAoR6S4+cNdqfgkXZIkCVmWkWUZj8eDx+PJyiooxc3G7+7uviE1h7FYDNM0GRwcpL+/nzNnznDq1CmOHz9OZ2cnhmGgqmpWAOFaAJJ1bjeyIDM/P5/8/HwWLFjAXXfdhaIoeL1eOjs7OXDgAJ9++im2bbumDC7rQkBStm3j9XrTNuK8Xq/zvolEgng87nyNx+MsXryYiooKnn32WSKRCO+88w6JRCIjPUJGAODz+XjyySf58ccf0wacqqoEg0FKSkqYP38+FRUVrFixgoULFzobYizLYt26ddTW1rJ161YOHTrkqvKxrAEALlW/pLs6d3h4mO7ubrq7u2lrayMajXLTTTfx0EMP0dDQQCAQcEb+Sy+9xMqVK2ltbc0oCMQ0MNUbJcsEAgEGBwf58MMPuf/++wmHw3g8HidxvO+++9i+fburt5IJAKYpQfX5fOzdu5dHH32UM2fOOKHjjjvuYNOmTcRiMQFALoBw8eJFGhsbnbYrtm1TW1vL8uXLBQC5Iq/XyzPPPMO5c+ewbRvDMAiFQhiGIQDIFSmKwgsvvEAgEECSJILBINXV1QKAXNKpU6c4cuQItm0Tj8d55JFHXJ8QCgCmORR89NFHzqJVJuQBAoBp1tdffz1uHWDx4sUCgFxSPB53poWJRIIFCxYIAHJJsixz/vx54NKO6mAwKADItbWB5CKQbdsEAgEBQC7JsqxxPRLi8bgAIJeUSCSYP38+AB6Ph76+PgFALqm8vNypJ1AUhe7ubgFArsi2bdasWUM0GgVgZGQkbTUMAgCXTAEbGhqcx/v378fn8wkAckGxWIznnnvOqQ/0+/3s2rXLqRdwq1KuCLJte1x2O119+LIl8Vu7di21tbWYpokkSezevZvz58/POABTtUvKAOTn51NWVuYUPk5XH75Ml2EYrFu3jueff96J/SdPniQcDqfF/U/VLspk30zo/+f7qqqybds2Vq9eTTQaRZIkzp49y1NPPZXW2D8Vu4gc4DpivcfjYf369Xz++eesWLEC0zRRVZVvvvmGxsbGjLoeRZj06rHVsiwSiQSxWIyioiJWrlxJVVUV99xzD9Fo1KkIjsVivPbaaxw6dMj1WX9GApBIJFizZg3Lli1Ly/t5vV78fj9z5syhtLSUhQsXUlBQ4BjdMAwURcE0Td577z3ef/99ZFnOOONnDADJ6pobqZGRkUsxU5Y5duwYH3/8MV9++SU+n8/1U72MB8BNW64sy+LOO+9k1qxZlJaWcvDgQfr7+zNuR1BGAeDxePjkk0/o7+9PC2xerxefz0cwGKSoqIibb76Z0tJSYrEYsVgM27ZZsmQJFRUVbNy4ke+++46dO3dy7NixjOudnDEA7Nu3j59//jktyd/YJDCZCPp8Pmd/YFVVFeXl5YyMjDAyMsLSpUt588036ezsZMuWLZw/fz5jNoqKaeAVPECyOUTyFJRAIIAsy/z000/s3r2bhoYG6urq2Ldvn+P6TdOkoqKCPXv2cO+994qdQdkMSCAQoK+vj+3bt/Pggw+O69gdi8XYsmULTzzxREZAIACYYmgaHh5m06ZNhEIhpw7ANE2efvrpCad5CACyVD6fj6NHj9LY2Igsy872sBdffJGCggIBQK6Ehl9//ZWNGzfi9/uRJIloNMrmzZudfxIJAHIAgq6uLiKRiPN4+fLlLFq0SACQK0qepZQsDDEMg7q6OhKJhAAgV2TbNnv37nUeV1VVuXareMoLQaZp0tTU5Ox2VVWVt99+O2OXQGd0VMkyX3zxBY899hixWIxgMEhpaemMnLE0VbtMCoANGzY4fftmz57NG2+8IQC4ir7//nsURSEWixGPx1m0aNGMnLI2VbuIEDBDsixr3CbRefPmiRwg18LAhQsXnJzATQdQCwDSNCUcO/93a82AAGAGQ0DyBO9kNzEBQA5pbNyXZZnff/9dAJBLCgaDzJkz59JUS1H45ZdfBAC5pLvvvttZ/EkkEpw8edKVn1OUhc+ADMPg4YcfdpZ/v/rqqykd8S48QIZJ0zRuv/12p77ws88+EwDkiqLRKK2trRiGgW3b9Pb2cvjwYdd+XhECplEjIyNs27aNuXPnApcKRV555RVnOig8QJaP/K1bt7Jq1Spn6rdnzx66urpc/bkFANMw3y8oKOCDDz5g9erVWJaFJEl0dnaybds2p05QhIAsUzwex+fz0dTUxOOPP45pmti2jcfj4ejRo2zevDkjNokIAFJUsgN4PB5nxYoV1NTU8MADD2CaplP+raoqb731Frt3786YHUIZA4BhGGlbT0+O5GAwyNy5c7nlllsoLy/n1ltvpbKyEo/Hg2mazqj3+XwcP36cl19+md9++y2jtodlBADRaJRdu3albbuVoijIsjxua1iy42fysSzL+P1+2tvbeffdd+no6MDv92fcIZIZszs4nS1XL9/RkzwdVFEUPB4PXV1dHDlyhP379zs7gzNtU6jrAbi8+1U6k7tYLMbQ0BADAwOcO3eOs2fPcvr0aX744QdOnDhBPB53zg7O9JI41wJweferdHucK50eDoz7Phvk6hAgupLNvMRCkABASAAgJAAQEgAICQCEBABCAgAhAYCQAEBIACAkABASAFxV4tCoG6+p2uC6AciEk7FzQcFgEMuy0g+AaZpUVlYKC9xgVVZWOg2i0gpAPB6nubnZte3PckGGYdDc3DylcrlJATC2OkeSJEpKSgiFQgKCG2T8UChESUnJBLtMRilXBMmyTF9f37jiR9u2Wbt2LbfddhvhcJiOjo4Z6YV3vcnRdFQUJcu/3XJNwWCQyspKmpubKSkpmZAE9vX1TaoyWQFSyiD8fj9tbW3U1NSMo8y2bebNm8err76KqqquKYvOy8ujrKxsyhA0NTWxYcMG14x8y7IwTZN4PD7B+LZt09bWNqkKZQU4k6oHiEQi1NfXMzQ0NCE0JBIJ52Qtt2g6CkpN03Rlg6crXVt+fj6RSCTVQXghmQN8m+qb9vb20tLSIg6OduFaQF5eHi0tLfT29qb6tG8BFF3XT2ialjJ17e3t1NXVUV9fT3V1NYWFha6EYbogVVXVtU0eAQYGBjhw4ACRSITe3t5UvZ4NdAJIAJqmfQXcNdlYZBjGlBYhRBI4dSW3qF1H7lUJHEvOAv42WQBkWXZ154vpkqqq2dgQ+4Ku68ecdQBd13cCFxHKFb1wpYWg9eK+ZH++CPxb1/W3nbxu7G81TWsDqi7/uVBWqQw4qev6eA+gaRq6rlcDp0dJEco+/Zeu647xxwGg63oSgj8C3eJeZZXbTxr/0wnJ/NgHYyBYBLx62QsIZaZ6gLIrGX8CAEkIRr+GgFLgX+IeZuSIvwA8pev6zcBVO1X/x2Rv1BugaZoE/AVYBvwJWCLus/vm9lxa3u0E/p6c5wvloFJd2gf4P8Hwf+/uucowAAAAAElFTkSuQmCC</ScriptIcon>
      <IsCustomIcon>false</IsCustomIcon>
      <HideBrowsers>false</HideBrowsers>
@@ -1084,16 +1244,16 @@ Detector=false
     &quot;SmsReceive&quot;: false
 }
 </ModulesMetaJson>
-     <InterfaceState>{&quot;variables&quot;:{&quot;sortings&quot;:[{&quot;name&quot;:&quot;frequency&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;dateModified&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;dateCreated&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;alphabetically&quot;,&quot;active&quot;:true}],&quot;filters&quot;:[{&quot;name&quot;:&quot;undefined&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;boolean&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;object&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;string&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;number&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;array&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;date&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;null&quot;,&quot;active&quot;:true}],&quot;options&quot;:[{&quot;name&quot;:&quot;groups&quot;,&quot;active&quot;:false}],&quot;groups&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Main&quot;,&quot;color&quot;:&quot;brown&quot;,&quot;expanded&quot;:true,&quot;items&quot;:[{&quot;key&quot;:&quot;CAPTCHA_LOADED&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;CYCLE_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;ERROR_ID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FILE_CONTENT&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FOREACH_DATA&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FOREACH_WORD&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FOUND&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;IS_EXISTS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LAST_ERROR&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_DATE&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_DESC&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_FULL_DESC&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_GEO&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_ID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_ID_INT&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_LINK&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_NAME&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_PAGE_PATH&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_PRICE&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_SELLER_RATING&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_SPECS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_TO_WORD_CHECK&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOWERCASE_WORD&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PARSER_LOOP_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PARSER_LOOP_NUM&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PARSER_RETRY_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;RESOURCE_LOCATION&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SAVED_COOKIES&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SQL_NUMBER_OF_RECORDS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SQL_QUERY_RESULTS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;STRING_CONTAINS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;VALID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;VALIDATION_WORDS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;VALIDATION_WORDS_RAW&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;WAITING_RESULTS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;WAS_ERROR&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;_&quot;,&quot;fixed&quot;:false}]}],&quot;nodes&quot;:{&quot;[\&quot;SQL_QUERY_RESULTS\&quot;]&quot;:false,&quot;[\&quot;VALIDATION_WORDS\&quot;]&quot;:false,&quot;[\&quot;VALIDATION_WORDS_RAW\&quot;]&quot;:false}},&quot;resources&quot;:{&quot;sortings&quot;:[],&quot;filters&quot;:[],&quot;options&quot;:[],&quot;groups&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Main&quot;,&quot;color&quot;:&quot;brown&quot;,&quot;expanded&quot;:true,&quot;items&quot;:[{&quot;key&quot;:&quot;API ключ cap.guru&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;API ключ бота в Telegram&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;ID аккаунта&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SQLite база данных для лотов&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Входить в аккаунт по кукам&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Задержка перед повторным обновлением при ошибке (мин)&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Количество повторных обновлений при ошибке&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Период обновления (мин)&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Присылать уведомления в Telegram бота&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Режим валидации по словам&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Сохранять объявления в Excel&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Список слов&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Ссылка для мониторинга лотов&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Таблица для сохранения&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Удалить все лоты из БД перед мониторингом&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Файл с куками&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Формат куков&quot;,&quot;fixed&quot;:false}]}],&quot;nodes&quot;:{&quot;[\&quot;SQLite база данных для лотов\&quot;]&quot;:false,&quot;[\&quot;Таблица\&quot;]&quot;:false,&quot;[\&quot;Таблица для сохранения\&quot;]&quot;:false,&quot;[\&quot;Файл с куками\&quot;]&quot;:false}},&quot;callstack&quot;:{&quot;filters&quot;:[]}}</InterfaceState>
-     <OutputTitle1 ru="First Results" en="First Results"/>
-     <OutputTitle2 ru="Second Results" en="Second Results"/>
-     <OutputTitle3 ru="Third Results" en="Third Results"/>
-     <OutputTitle4 ru="Fourth Results" en="Fourth Results"/>
-     <OutputTitle5 ru="Fifth Results" en="Fifth Results"/>
-     <OutputTitle6 ru="Sixth Results" en="Sixth Results"/>
-     <OutputTitle7 ru="Seventh Results" en="Seventh Results"/>
-     <OutputTitle8 ru="Eighth Results" en="Eighth Results"/>
-     <OutputTitle9 ru="Ninth Results" en="Ninth Results"/>
+     <InterfaceState>{&quot;variables&quot;:{&quot;sortings&quot;:[{&quot;name&quot;:&quot;frequency&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;dateModified&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;dateCreated&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;alphabetically&quot;,&quot;active&quot;:true}],&quot;filters&quot;:[{&quot;name&quot;:&quot;undefined&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;boolean&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;object&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;string&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;number&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;array&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;date&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;null&quot;,&quot;active&quot;:true}],&quot;options&quot;:[{&quot;name&quot;:&quot;groups&quot;,&quot;active&quot;:false}],&quot;groups&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Main&quot;,&quot;color&quot;:&quot;brown&quot;,&quot;expanded&quot;:true,&quot;items&quot;:[{&quot;key&quot;:&quot;CAPTCHA_LOADED&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;CYCLE_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;ERROR_ID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;EXCEL_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FILE_CONTENT&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FINGERPRINT&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FIRST_LOOP_SKIP&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FOREACH_DATA&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FOREACH_WORD&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FOUND&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;IS_EXISTS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LAST_ERROR&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_DATE&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_DESC&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_FULL_DESC&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_GEO&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_ID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_ID_INT&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_LINK&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_NAME&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_PAGE_PATH&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_PRICE&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_SELLER_RATING&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_SPECS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOT_TO_WORD_CHECK&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LOWERCASE_WORD&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PARSER_LOOP_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PARSER_LOOP_NUM&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PARSER_RETRY_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;RESOURCE_LOCATION&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SAVED_COOKIES&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SQL_NUMBER_OF_RECORDS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SQL_QUERY_RESULTS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;STRING_CONTAINS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;VALID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;VALIDATION_WORDS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;VALIDATION_WORDS_RAW&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;WAITING_RESULTS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;WAS_ERROR&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;_&quot;,&quot;fixed&quot;:false}]}],&quot;nodes&quot;:{&quot;[\&quot;SQL_QUERY_RESULTS\&quot;]&quot;:false,&quot;[\&quot;VALIDATION_WORDS\&quot;]&quot;:false,&quot;[\&quot;VALIDATION_WORDS_RAW\&quot;]&quot;:false}},&quot;resources&quot;:{&quot;sortings&quot;:[],&quot;filters&quot;:[],&quot;options&quot;:[],&quot;groups&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Main&quot;,&quot;color&quot;:&quot;brown&quot;,&quot;expanded&quot;:true,&quot;items&quot;:[{&quot;key&quot;:&quot;API ключ FingerPrint Switcher&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;API ключ cap.guru&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;API ключ бота в Telegram&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;ID аккаунта&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SQLite база данных для лотов&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Входить в аккаунт по кукам&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Задержка перед повторным обновлением при ошибке (мин)&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Количество повторных обновлений при ошибке&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Менять отпечаток браузера&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Период обновления (мин)&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Присылать уведомления в Telegram бота&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Пропустить объявления не первом круге&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Режим валидации по словам&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Сохранять объявления в Excel&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Список слов&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Ссылка для мониторинга лотов&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Таблица для сохранения&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Удалить все лоты из БД перед мониторингом&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Файл с куками&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;Формат куков&quot;,&quot;fixed&quot;:false}]}],&quot;nodes&quot;:{&quot;[\&quot;SQLite база данных для лотов\&quot;]&quot;:false,&quot;[\&quot;Таблица\&quot;]&quot;:false,&quot;[\&quot;Таблица для сохранения\&quot;]&quot;:false,&quot;[\&quot;Файл с куками\&quot;]&quot;:false}},&quot;callstack&quot;:{&quot;filters&quot;:[]}}</InterfaceState>
+     <OutputTitle1 en="First Results" ru="First Results"/>
+     <OutputTitle2 en="Second Results" ru="Second Results"/>
+     <OutputTitle3 en="Third Results" ru="Third Results"/>
+     <OutputTitle4 en="Fourth Results" ru="Fourth Results"/>
+     <OutputTitle5 en="Fifth Results" ru="Fifth Results"/>
+     <OutputTitle6 en="Sixth Results" ru="Sixth Results"/>
+     <OutputTitle7 en="Seventh Results" ru="Seventh Results"/>
+     <OutputTitle8 en="Eighth Results" ru="Eighth Results"/>
+     <OutputTitle9 en="Ninth Results" ru="Ninth Results"/>
      <OutputVisible1>1</OutputVisible1>
      <OutputVisible2>1</OutputVisible2>
      <OutputVisible3>1</OutputVisible3>
@@ -1106,10 +1266,10 @@ Detector=false
      <ModelList>
           <Model>
                <Name>Ссылка для мониторинга лотов</Name>
-               <Description ru="Ссылка для мониторинга лотов" en="Ссылка для мониторинга лотов"/>
-               <SectionName ru="Мониторинг" en="Мониторинг"/>
+               <Description en="Ссылка для мониторинга лотов" ru="Ссылка для мониторинга лотов"/>
+               <SectionName en="Мониторинг" ru="Мониторинг"/>
                <HintVisible>1</HintVisible>
-               <Hint ru="Ссылка с фильтрами и сортировкой" en=""/>
+               <Hint en="" ru="Ссылка с фильтрами и сортировкой"/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>FixedString</Type>
@@ -1125,10 +1285,10 @@ Detector=false
           <Defaults/>
           <Model>
                <Name>Период обновления (мин)</Name>
-               <Description ru="Период обновления (мин)" en="Период обновления (мин)"/>
-               <SectionName ru="Мониторинг" en="Мониторинг"/>
+               <Description en="Период обновления (мин)" ru="Период обновления (мин)"/>
+               <SectionName en="Мониторинг" ru="Мониторинг"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>FixedInteger</Type>
@@ -1143,10 +1303,10 @@ Detector=false
           <Defaults/>
           <Model>
                <Name>Задержка перед повторным обновлением при ошибке (мин)</Name>
-               <Description ru="Задержка перед повторным обновлением при ошибке (мин)" en="Задержка перед повторным обновлением при ошибке (мин)"/>
-               <SectionName ru="Мониторинг" en="Мониторинг"/>
+               <Description en="Задержка перед повторным обновлением при ошибке (мин)" ru="Задержка перед повторным обновлением при ошибке (мин)"/>
+               <SectionName en="Мониторинг" ru="Мониторинг"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>FixedInteger</Type>
@@ -1161,10 +1321,10 @@ Detector=false
           <Defaults/>
           <Model>
                <Name>Количество повторных обновлений при ошибке</Name>
-               <Description ru="Количество повторных обновлений при ошибке" en="Количество повторных обновлений при ошибке"/>
-               <SectionName ru="Мониторинг" en="Мониторинг"/>
+               <Description en="Количество повторных обновлений при ошибке" ru="Количество повторных обновлений при ошибке"/>
+               <SectionName en="Мониторинг" ru="Мониторинг"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>FixedInteger</Type>
@@ -1179,10 +1339,10 @@ Detector=false
           <Defaults/>
           <Model>
                <Name>Обновления</Name>
-               <Description ru="Обновления" en="Обновления"/>
-               <SectionName ru="Мониторинг" en="Мониторинг"/>
+               <Description en="Обновления" ru="Обновления"/>
+               <SectionName en="Мониторинг" ru="Мониторинг"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Information</Type>
@@ -1190,18 +1350,34 @@ Detector=false
                <Visible>1</Visible>
                <Enabled>1</Enabled>
                <AllowedTypes>Information</AllowedTypes>
-               <Info ru="Если все повторы были неудачны, бот будет ждать до следующего обновления" en=""/>
-               <ComputedInfo ru="&lt;p&gt;Если все повторы были неудачны, бот будет ждать до следующего обновления &lt;/p&gt;" en=""/>
+               <Info en="" ru="Если все повторы были неудачны, бот будет ждать до следующего обновления"/>
+               <ComputedInfo en="" ru="&lt;p&gt;Если все повторы были неудачны, бот будет ждать до следующего обновления &lt;/p&gt;"/>
                <UnderSpoiler>0</UnderSpoiler>
-               <SpoilerTitle ru="" en=""/>
+               <SpoilerTitle en="" ru=""/>
+          </Model>
+          <Defaults/>
+          <Model>
+               <Name>Пропустить объявления не первом круге</Name>
+               <Description en="Пропустить объявления не первом круге" ru="Пропустить объявления не первом круге"/>
+               <SectionName en="Мониторинг" ru="Мониторинг"/>
+               <HintVisible>1</HintVisible>
+               <Hint en="" ru="Объявления сохранятся в БД и Excel, но уведомления приходить не будут"/>
+               <VisibilityConditionValue></VisibilityConditionValue>
+               <VisibilityConditionVariable></VisibilityConditionVariable>
+               <Type>Checkbox</Type>
+               <IsAdvanced>0</IsAdvanced>
+               <Visible>1</Visible>
+               <Enabled>1</Enabled>
+               <AllowedTypes>Checkbox</AllowedTypes>
+               <Value>0</Value>
           </Model>
           <Defaults/>
           <Model>
                <Name>SQLite база данных для лотов</Name>
-               <Description ru="SQLite база данных для лотов" en="SQLite база данных для лотов"/>
-               <SectionName ru="База данных" en=""/>
+               <Description en="SQLite база данных для лотов" ru="SQLite база данных для лотов"/>
+               <SectionName en="" ru="База данных"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>LinesFromFile</Type>
@@ -1224,10 +1400,10 @@ Detector=false
           <Defaults/>
           <Model>
                <Name>Создание таблицы</Name>
-               <Description ru="Создание таблицы" en="Создание таблицы"/>
-               <SectionName ru="База данных" en=""/>
+               <Description en="Создание таблицы" ru="Создание таблицы"/>
+               <SectionName en="" ru="База данных"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Information</Type>
@@ -1235,18 +1411,18 @@ Detector=false
                <Visible>1</Visible>
                <Enabled>1</Enabled>
                <AllowedTypes>Information</AllowedTypes>
-               <Info ru="Если БД полностью пустая, будет создана новая таблица" en=""/>
-               <ComputedInfo ru="&lt;p&gt;Если БД полностью пустая, будет создана новая таблица &lt;/p&gt;" en=""/>
+               <Info en="" ru="Если БД полностью пустая, будет создана новая таблица"/>
+               <ComputedInfo en="" ru="&lt;p&gt;Если БД полностью пустая, будет создана новая таблица &lt;/p&gt;"/>
                <UnderSpoiler>0</UnderSpoiler>
-               <SpoilerTitle ru="" en=""/>
+               <SpoilerTitle en="" ru=""/>
           </Model>
           <Defaults/>
           <Model>
                <Name>Удалить все лоты из БД перед мониторингом</Name>
-               <Description ru="Удалить все лоты из БД перед мониторингом" en="Удалить все лоты из БД перед мониторингом"/>
-               <SectionName ru="База данных" en=""/>
+               <Description en="Удалить все лоты из БД перед мониторингом" ru="Удалить все лоты из БД перед мониторингом"/>
+               <SectionName en="" ru="База данных"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Checkbox</Type>
@@ -1259,10 +1435,10 @@ Detector=false
           <Defaults/>
           <Model>
                <Name>Входить в аккаунт по кукам</Name>
-               <Description ru="Входить в аккаунт по кукам" en="Входить в аккаунт по кукам"/>
-               <SectionName ru="Аккаунт" en="Аккаунт"/>
+               <Description en="Входить в аккаунт по кукам" ru="Входить в аккаунт по кукам"/>
+               <SectionName en="Аккаунт" ru="Аккаунт"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Checkbox</Type>
@@ -1275,10 +1451,10 @@ Detector=false
           <Defaults/>
           <Model>
                <Name>Формат куков</Name>
-               <Description ru="Формат куков" en="Формат куков"/>
-               <SectionName ru="Аккаунт" en="Аккаунт"/>
+               <Description en="Формат куков" ru="Формат куков"/>
+               <SectionName en="Аккаунт" ru="Аккаунт"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue>true</VisibilityConditionValue>
                <VisibilityConditionVariable>Входить в аккаунт по кукам</VisibilityConditionVariable>
                <Type>Select</Type>
@@ -1295,10 +1471,10 @@ Netscape</Values>
           <Defaults/>
           <Model>
                <Name>Файл с куками</Name>
-               <Description ru="Файл с куками" en="Файл с куками"/>
-               <SectionName ru="Аккаунт" en="Аккаунт"/>
+               <Description en="Файл с куками" ru="Файл с куками"/>
+               <SectionName en="Аккаунт" ru="Аккаунт"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue>true</VisibilityConditionValue>
                <VisibilityConditionVariable>Входить в аккаунт по кукам</VisibilityConditionVariable>
                <Type>LinesFromFile</Type>
@@ -1321,10 +1497,10 @@ Netscape</Values>
           <Defaults/>
           <Model>
                <Name>API ключ cap.guru</Name>
-               <Description ru="API ключ cap.guru" en="API ключ cap.guru"/>
-               <SectionName ru="Капча" en=""/>
+               <Description en="API ключ cap.guru" ru="API ключ cap.guru"/>
+               <SectionName en="" ru="Капча"/>
                <HintVisible>1</HintVisible>
-               <Hint ru="Для решения GeeTest капчи" en=""/>
+               <Hint en="" ru="Для решения GeeTest капчи"/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>FixedString</Type>
@@ -1339,11 +1515,46 @@ Netscape</Values>
           </Model>
           <Defaults/>
           <Model>
-               <Name>Режим валидации по словам</Name>
-               <Description ru="Режим валидации по словам" en="Режим валидации по словам"/>
-               <SectionName ru="Валидация" en="Валидация"/>
+               <Name>Менять отпечаток браузера</Name>
+               <Description en="Менять отпечаток браузера" ru="Менять отпечаток браузера"/>
+               <SectionName en="Отпечаток" ru="Отпечаток"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
+               <VisibilityConditionValue></VisibilityConditionValue>
+               <VisibilityConditionVariable></VisibilityConditionVariable>
+               <Type>Checkbox</Type>
+               <IsAdvanced>0</IsAdvanced>
+               <Visible>1</Visible>
+               <Enabled>1</Enabled>
+               <AllowedTypes>Checkbox</AllowedTypes>
+               <Value>0</Value>
+          </Model>
+          <Defaults/>
+          <Model>
+               <Name>API ключ FingerPrint Switcher</Name>
+               <Description en="API ключ FingerPrint Switcher" ru="API ключ FingerPrint Switcher"/>
+               <SectionName en="Отпечаток" ru="Отпечаток"/>
+               <HintVisible>0</HintVisible>
+               <Hint en="" ru=""/>
+               <VisibilityConditionValue>true</VisibilityConditionValue>
+               <VisibilityConditionVariable>Менять отпечаток браузера</VisibilityConditionVariable>
+               <Type>FixedString</Type>
+               <IsAdvanced>0</IsAdvanced>
+               <Visible>1</Visible>
+               <Enabled>1</Enabled>
+               <AllowedTypes>FixedString</AllowedTypes>
+               <Value></Value>
+               <NotEmpty>1</NotEmpty>
+               <MultiLine>0</MultiLine>
+               <Rows>3</Rows>
+          </Model>
+          <Defaults/>
+          <Model>
+               <Name>Режим валидации по словам</Name>
+               <Description en="Режим валидации по словам" ru="Режим валидации по словам"/>
+               <SectionName en="Валидация" ru="Валидация"/>
+               <HintVisible>0</HintVisible>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Select</Type>
@@ -1360,10 +1571,10 @@ Netscape</Values>
           <Defaults/>
           <Model>
                <Name>Список слов</Name>
-               <Description ru="Список слов" en="Список слов"/>
-               <SectionName ru="Валидация" en="Валидация"/>
-               <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Description en="Список слов" ru="Список слов"/>
+               <SectionName en="Валидация" ru="Валидация"/>
+               <HintVisible>1</HintVisible>
+               <Hint en="" ru="Например *Горьковcкая* для черного списка - исключить все квартиры где указано это метро или *Pixel Buds 2* для белого списка - исключить все объявления с другими моделями наушников"/>
                <VisibilityConditionValue>Белый список|Черный список</VisibilityConditionValue>
                <VisibilityConditionVariable>Режим валидации по словам</VisibilityConditionVariable>
                <Type>FixedString</Type>
@@ -1374,15 +1585,15 @@ Netscape</Values>
                <Value></Value>
                <NotEmpty>1</NotEmpty>
                <MultiLine>1</MultiLine>
-               <Rows>10</Rows>
+               <Rows>9</Rows>
           </Model>
           <Defaults/>
           <Model>
                <Name>Присылать уведомления в Telegram бота</Name>
-               <Description ru="Присылать уведомления в Telegram бота" en="Присылать уведомления в Telegram бота"/>
-               <SectionName ru="Telegram" en="Telegram"/>
+               <Description en="Присылать уведомления в Telegram бота" ru="Присылать уведомления в Telegram бота"/>
+               <SectionName en="Telegram" ru="Telegram"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Checkbox</Type>
@@ -1395,10 +1606,10 @@ Netscape</Values>
           <Defaults/>
           <Model>
                <Name>API ключ бота в Telegram</Name>
-               <Description ru="API ключ бота в Telegram" en="API ключ бота в Telegram"/>
-               <SectionName ru="Telegram" en="Telegram"/>
+               <Description en="API ключ бота в Telegram" ru="API ключ бота в Telegram"/>
+               <SectionName en="Telegram" ru="Telegram"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue>true</VisibilityConditionValue>
                <VisibilityConditionVariable>Присылать уведомления в Telegram бота</VisibilityConditionVariable>
                <Type>FixedString</Type>
@@ -1414,10 +1625,10 @@ Netscape</Values>
           <Defaults/>
           <Model>
                <Name>ID аккаунта</Name>
-               <Description ru="ID аккаунта" en="ID аккаунта"/>
-               <SectionName ru="Telegram" en="Telegram"/>
+               <Description en="ID аккаунта" ru="ID аккаунта"/>
+               <SectionName en="Telegram" ru="Telegram"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue>true</VisibilityConditionValue>
                <VisibilityConditionVariable>Присылать уведомления в Telegram бота</VisibilityConditionVariable>
                <Type>FixedString</Type>
@@ -1433,10 +1644,10 @@ Netscape</Values>
           <Defaults/>
           <Model>
                <Name>Сохранять объявления в Excel</Name>
-               <Description ru="Сохранять объявления в Excel" en="Сохранять объявления в Excel"/>
-               <SectionName ru="Excel" en="Excel"/>
+               <Description en="Сохранять объявления в Excel" ru="Сохранять объявления в Excel"/>
+               <SectionName en="Excel" ru="Excel"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue></VisibilityConditionValue>
                <VisibilityConditionVariable></VisibilityConditionVariable>
                <Type>Checkbox</Type>
@@ -1449,10 +1660,10 @@ Netscape</Values>
           <Defaults/>
           <Model>
                <Name>Таблица для сохранения</Name>
-               <Description ru="Таблица для сохранения" en="Таблица для сохранения"/>
-               <SectionName ru="Excel" en="Excel"/>
+               <Description en="Таблица для сохранения" ru="Таблица для сохранения"/>
+               <SectionName en="Excel" ru="Excel"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue>true</VisibilityConditionValue>
                <VisibilityConditionVariable>Сохранять объявления в Excel</VisibilityConditionVariable>
                <Type>LinesFromFile</Type>
@@ -1475,10 +1686,10 @@ Netscape</Values>
           <Defaults/>
           <Model>
                <Name>Сохранение</Name>
-               <Description ru="Сохранение" en="Сохранение"/>
-               <SectionName ru="Excel" en="Excel"/>
+               <Description en="Сохранение" ru="Сохранение"/>
+               <SectionName en="Excel" ru="Excel"/>
                <HintVisible>0</HintVisible>
-               <Hint ru="" en=""/>
+               <Hint en="" ru=""/>
                <VisibilityConditionValue>true</VisibilityConditionValue>
                <VisibilityConditionVariable>Сохранять объявления в Excel</VisibilityConditionVariable>
                <Type>Information</Type>
@@ -1486,10 +1697,10 @@ Netscape</Values>
                <Visible>1</Visible>
                <Enabled>1</Enabled>
                <AllowedTypes>Information</AllowedTypes>
-               <Info ru="Таблица будет перезаписана с нуля при каждом запуске" en=""/>
-               <ComputedInfo ru="&lt;p&gt;Таблица будет перезаписана с нуля при каждом запуске &lt;/p&gt;" en=""/>
+               <Info en="" ru="Таблица будет перезаписана с нуля при каждом запуске"/>
+               <ComputedInfo en="" ru="&lt;p&gt;Таблица будет перезаписана с нуля при каждом запуске &lt;/p&gt;"/>
                <UnderSpoiler>0</UnderSpoiler>
-               <SpoilerTitle ru="" en=""/>
+               <SpoilerTitle en="" ru=""/>
           </Model>
           <Defaults/>
      </ModelList>
