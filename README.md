@@ -1,6 +1,7 @@
 # Avito-Monitor
 
 Инструмент для мониторинга новых объявлений на avito.ru
+https://bablosoft.com/shop/BrowserAutomationStudio
 
 ---
 
