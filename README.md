@@ -16,7 +16,7 @@ https://bablosoft.com/shop/BrowserAutomationStudio
 
 | Вкладка     | Ресурс                                   | Описание / Варианты / Комментарии                                              |
 |-------------|------------------------------------------|--------------------------------------------------------------------------------|
-| Мониторинг  | Ссылка для мониторинга лотов             | Поисковый запрос или ссылка (пример: `[AgICAUTmvA30OTQ&q=pixel+watch+2&user=1](https://www.avito.ru/nizhniy_novgorod/chasy_i_ukrasheniya?cd=1&f=ASgBAgICAUTmvA300TQ&q=pixel+watch+2&user=1)`) |
+| Мониторинг  | Ссылка для мониторинга лотов             | Поисковый запрос или ссылка (пример: `https://www.avito.ru/nizhniy_novgorod/chasy_i_ukrasheniya?cd=1&f=ASgBAgICAUTmvA300TQ&q=pixel+watch+2&user=1`) |
 |             | Период обновления (мин)                  | Интервал между проверками (в минутах)                                          |
 |             | Задержка перед повтором при ошибке (мин) | Время ожидания перед повторной попыткой после ошибки                           |
 |             | Количество повторов при ошибке           | Сколько раз пытаться обновить после ошибки                                     |
@@ -43,7 +43,7 @@ https://bablosoft.com/shop/BrowserAutomationStudio
 
     - Ссылка для мониторинга лотов:
     Тут вставляешь ссылку/поисковый запрос, по которому бот будет искать объявления.
-    Пример: [Ссылка](https://www.avito.ru/nizhniy_novgorod/chasy_i_ukrasheniya?cd=1&f=ASgBAgICAUTmvA300TQ&q=pixel+watch+2&user=1)
+    Пример: https://www.avito.ru/nizhniy_novgorod/chasy_i_ukrasheniya?cd=1&f=ASgBAgICAUTmvA300TQ&q=pixel+watch+2&user=1
     ⚡️ Лайфхак: копируй сразу фильтрованные ссылки, чтобы не ловить весь мусор.
 
     - Период обновления (мин):
