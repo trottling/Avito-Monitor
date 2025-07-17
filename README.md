@@ -44,6 +44,7 @@ https://bablosoft.com/shop/BrowserAutomationStudio
     - Ссылка для мониторинга лотов:
     Тут вставляешь ссылку/поисковый запрос, по которому бот будет искать объявления.
     Пример: https://www.avito.ru/nizhniy_novgorod/chasy_i_ukrasheniya?cd=1&f=ASgBAgICAUTmvA300TQ&q=pixel+watch+2&user=1
+
     ⚡️ Лайфхак: копируй сразу фильтрованные ссылки, чтобы не ловить весь мусор.
 
     - Период обновления (мин):
