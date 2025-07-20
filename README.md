@@ -2,7 +2,7 @@
 
 **Инструмент для мониторинга и массового парсинга объявлений на [avito.ru](https://avito.ru), написанный под Browser Automation Studio (BAS).**
 
-[Купить BAS → bablosoft.com/shop/BrowserAutomationStudio](https://bablosoft.com/shop/BrowserAutomationStudio)
+[Скачать BAS → bablosoft.com/shop/BrowserAutomationStudio](https://bablosoft.com/shop/BrowserAutomationStudio)
 
 ---
 
